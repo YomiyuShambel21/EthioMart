@@ -1,0 +1,5 @@
+.env/
+photos/
+photos.zip/
+scripts/*.session/
+scripts/scraping_session.session
