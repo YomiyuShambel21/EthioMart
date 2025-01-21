@@ -1,5 +1,29 @@
-.env/
-photos/
-photos.zip/
-scripts/*.session/
-scripts/scraping_session.session
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
+
+# IDE files
+*.vscode/
+*.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
